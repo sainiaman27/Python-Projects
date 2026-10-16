@@ -25,7 +25,7 @@ I am pursuing an **MS in Computer Science specializing in Artificial Intelligenc
 ## Projects and coursework
 
 ### 1. Car Dataset — Exploratory Data Analysis
-**Notebook:** [Exploratory_Data_Analysis_Assignment.ipynb](./Exploratory_Data_Analysis_Assignment.ipynb)  
+**Notebook:** [Exploratory_Car_Data_Analysis_Assignment.ipynb](./Exploratory_Car_Data_Analysis_Assignment.ipynb)  
 **Dataset:** [Cars_data_.csv](./Cars_data_.csv)
 
 An exploratory analysis of vehicle data focused on data quality, price distributions, manufacturer comparisons, vehicle specifications, and numeric correlations.
