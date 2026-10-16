@@ -77,7 +77,7 @@ pip install pandas numpy matplotlib seaborn scipy jupyter
 
 ## Connect
 - **GitHub:** [@sainiaman27](https://github.com/sainiaman27)
-- **LinkedIn:** Add your LinkedIn profile URL.
+- **LinkedIn:** [linkedin.com/in/aman-saini-51411777](https://www.linkedin.com/in/aman-saini-51411777/)
 
 ---
 
